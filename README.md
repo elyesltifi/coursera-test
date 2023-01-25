@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <Title>coursera-test</title>
+    coursera-test
   </head>
 <body>
   </body>
